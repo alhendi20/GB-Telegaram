@@ -1,9 +1,9 @@
-Version 1.00 Changelog:
+الاصدار 1.10 سجل التغيرات: 
 
->[Fixed] Crashing issue when updating follower list
->[Fixed] Icon duplication problem when installing the update
->[Fixed] The problem of the application disappearing in the list of applications in Huawei devices
->[Fixed] The crash problem when clicking on the website link in the bio
->[Added] the Arabic language in the translations section
->[Fixed] The problem of some words appearing in English
->[Fixed] The problem of the collapse when registering another account in the night mode.
+> [اصلاح] مشكلة الانهيار عند تحديث قائمة المتابعين
+> [اصلاح] مشكلة تكرار الايقونات عند تثبيت التحديث
+> [اصلاح] مشكلة اختفاء التطبيق في قائمة التطبيقات في اجهزة هواوي
+> [اصلاح] مشكلة الانهيار عند الضغط على رابط الموقع في البايو
+> [اضافة] اللغه العربيه في قسم الترجمات
+> [اصلاح] مشكلة ظهور بعض الكلمات باللغه الانجليزيه
+> [اصلاح] مشكلة الانهيار عند تسجيل حساب اخر في الوضع الليلي .
